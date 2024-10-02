@@ -4,6 +4,7 @@
 > **This repository has been moved to another location.**  
 > **Please head to https://github.com/nain-F49FF806/anemo-aer**
 
+---
 
 >    > [!NOTE]  
 >    > - This fork focuses on supporting app's *private location* on external storage (~ SD card)  
